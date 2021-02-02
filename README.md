@@ -9,15 +9,13 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
   </a>
 </h1>
-
-<br/>
 <br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
 </a>
 
   
-<h4> I'm Adrian Gaile Pedrezuela. A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: </h4>
+<h6> I'm Adrian Gaile Pedrezuela. A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: </h6>
 
 - 🔭 I’m currently working on Android, Data Science and Web Development
 - 🌱 I’m currently learning Flutter, Android App Development, Web Development and Competitive Programming
