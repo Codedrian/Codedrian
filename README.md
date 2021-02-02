@@ -11,6 +11,7 @@
 </h1>
 
 <br/>
+<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
 </a>
@@ -59,16 +60,6 @@ A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passi
 </div>
 
 <br >
-
-## 🏆 Github Status
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" >
-
-<br>
-
-<div align="center">
 
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
