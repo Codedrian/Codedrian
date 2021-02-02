@@ -9,7 +9,7 @@ A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passi
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<img src="Coding _Monochromatic.svg" alt="Illustration" width="600" align="right" />
+
 - 🌱 I’m currently learning NodeJs, Python and ReactJs
 - 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/i_am_adriangaile/?hl=en) 
