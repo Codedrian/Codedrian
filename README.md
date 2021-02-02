@@ -81,5 +81,7 @@ A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passi
 <a href="https://dev.to/codedrian"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 </div>
+</p>
+<br/>
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
