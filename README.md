@@ -19,10 +19,6 @@
   
 A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
-
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🔭 I’m currently working on Android, Data Science and Web Development
 - 🌱 I’m currently learning Flutter, Android App Development, Web Development and Competitive Programming
 - 👯 I’m looking to collaborate on  Android, Data Science or Web Development
