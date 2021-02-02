@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> नमस्ते (Namaste), I'm Adrian Gaile Pedrezuela <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hello World, I'm Adrian Gaile Pedrezuela <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">I'm an aspiring Software and Web Developer from Philippines ❤</h3>
   
@@ -9,7 +9,7 @@ A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passi
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<img src="Coding _Monochromatic.svg" alt="Illustration" width="600" align="right" />
 - 🌱 I’m currently learning NodeJs, Python and ReactJs
 - 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/i_am_adriangaile/?hl=en) 
@@ -68,6 +68,6 @@ A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passi
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">(/)
 
 
-<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+<a href="https://dev.to/codedrian"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 </div>
