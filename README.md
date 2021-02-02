@@ -62,7 +62,14 @@ A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passi
 <br >
 
 
-### Show some ❤️ by starring ⭐ some of the repositories!
+<h1>
+  Connect With Me <a target="_blank">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Handshake.gif" height="32px" style="max-width:100%;">
+  </a>
+</h1>
+
+<p align="center">
+  <br>
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/codedrian/)
@@ -74,3 +81,5 @@ A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passi
 <a href="https://dev.to/codedrian"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 </div>
+
+### Show some ❤️ by starring ⭐ some of the repositories!
