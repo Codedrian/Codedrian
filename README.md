@@ -10,11 +10,14 @@ A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passi
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJs, Python and ReactJs
-- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
+- 🔭 I’m currently working on Android, Data Science and Web Development
+- 🌱 I’m currently learning Flutter, Android App Development, Web Development and Competitive Programming
+- 👯 I’m looking to collaborate on  Android, Data Science or Web Development
+- 🤔 I’m looking for help with Internships
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/i_am_adriangaile/?hl=en) 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades!
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Best Part Of The Journey Is : It Ends, Jack of all trades!
+-     Hogwarts House : Slytherin 
 <br />
 
 
