@@ -17,7 +17,7 @@ A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passi
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/i_am_adriangaile/?hl=en) 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Best Part Of The Journey Is : It Ends, Jack of all trades!
--     Hogwarts House : Slytherin 
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png"> 
 <br />
 
 
