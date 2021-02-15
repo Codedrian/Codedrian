@@ -15,7 +15,7 @@
 </a>
 
   
- I'm Adrian Gaile Pedrezuela. A 19 Y/O aspiring Software🌈 and Web developer🎯 from Philippines. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+ I'm Adrian Gaile Pedrezuela. A 19 years old aspiring Software🌈 and Web developer🎯 from Philippines. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 - 🔭 I’m currently working on Android, Data Science and Web Development
 - 🌱 I’m currently learning Flutter, Android App Development, Web Development and Competitive Programming
@@ -81,4 +81,4 @@
 </p>
 <br/>
 
-### Show some ❤️ by starring ⭐ some of the repositories!
+
