@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning Flutter, Android App Development, Web Development and Competitive Programming
 - 👯 I’m looking to collaborate on  Android, Data Science or Web Development
 - 🤔 I’m looking for help with Internships
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/i_am_adriangaile/?hl=en) 
+- 📫 How to reach me: You may follow me on <a href "https://www.instagram.com/i_am_adriangaile/?hl=en" target="blank">Instgram<a>
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Best Part Of The Journey Is : It Ends, Jack of all trades!
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png"> 
